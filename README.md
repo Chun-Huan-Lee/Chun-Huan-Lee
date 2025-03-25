@@ -1,4 +1,4 @@
-#👋 Hi, I'm @Chun-Huan-Lee
+- 👋 Hi, I'm @Chun-Huan-Lee
 - 👀 I'm interested in software development, web development, front-end development, and UX/UI design
 - 🌱 I'm currently learning Computer Science as a second-year bachelor student at Queensland University of Technology (QUT)
 - 💞️ I'm looking to collaborate on software and web development projects, seeking internship opportunities in these fields
