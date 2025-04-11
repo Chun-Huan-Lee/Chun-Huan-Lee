@@ -1,8 +1,15 @@
-- 👋 Hi, I'm @Chun-Huan-Lee
-- 👀 I'm interested in software development, web development, front-end development, and UX/UI design
-- 🌱 I'm currently learning Computer Science as a second-year bachelor student at Queensland University of Technology (QUT)
-- 💞️ I'm looking to collaborate on software and web development projects, seeking internship opportunities in these fields
-- 📫 How to reach me: vincent741516899@gmail.com
+# 👋 Hi there, I'm Chun-Huan Lee
+
+## 💻 About Me
+- 🎓 Second-year Computer Science student at Queensland University of Technology (QUT)
+- 🔭 Passionate about software development, web development, and UX/UI design
+- 🌱 Constantly learning and expanding my technical skills
+- 🚀 Seeking internship opportunities and collaborative projects in development
+
+## 📫 Let's Connect
+- Email: vincent741516899@gmail.com
+- Open to collaboration on software and web development projects
+
 
   
 <!---
